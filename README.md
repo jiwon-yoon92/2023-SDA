@@ -59,7 +59,27 @@
 
 ---
 
-## 📧 Contact
+## 📊 분석 결과 요약  
+- 💧 **물 가격이 높을수록 행복 수준도 높게 나타남**  
+- 🌿 **오염도가 낮을수록 행복 수준이 상승하는 경향**  
+- 🏋️‍♂️ **비만율이 높은 국가일수록 코로나19 확진률이 높음**  
+- 🍽 **영양결핍률이 높은 국가에서 코로나19 치명률이 더 높게 나타남**
 
-- **Email**: sjh75555@naver.com
-- **GitHub**: [https://github.com/wkd-gh](https://github.com/wkd-gh)
+---
+
+## 📜 결론 및 시사점  
+✔ **올바른 식습관 교육 필요** → 동물성 식품과 식물성 식품의 균형 잡힌 섭취가 중요  
+✔ **공공 보건 정책 필요** → 비만율과 영양결핍 문제 해결을 위한 정책 수립  
+✔ **코로나19 예방을 위한 건강 관리** → 비만율이 높은 지역에서 건강 증진 프로그램이 필요  
+
+---
+
+## 📫 Contact & Links  
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wkd-gh)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sjh008272@gmail.com) 
+
+---
+
+## 📜 참고 문헌  
+1. 📄 **[Healthy Lifestyle Cities Report 2021 - Kaggle](https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021)**  
+2. 📄 **[COVID-19 Healthy Diet Dataset - Kaggle](https://www.kaggle.com/datasets/mariaren/covid19-healthy-diet-dataset)**  
